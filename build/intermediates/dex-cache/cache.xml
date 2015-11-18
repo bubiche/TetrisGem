@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="N:\Android\Tet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="N:\Android\Tet\app\build\intermediates\pre-dexed\debug\classes-f8c8d7f0b7ea39e36f19cc6df7821bef366cf57d.jar" />
+    </item>
+    <item
+        jar="N:\Android\Tet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="N:\Android\Tet\app\build\intermediates\pre-dexed\debug\classes-85b689421722a64067292af5c7077f4d76a637e1.jar" />
+    </item>
+    <item
+        jar="N:\Android\Tet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="N:\Android\Tet\app\build\intermediates\pre-dexed\debug\classes-35da431a4a3eedd0ec440a3181e6e95266bf57a0.jar" />
+    </item>
+    <item
+        jar="N:\Android\Tet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="N:\Android\Tet\app\build\intermediates\pre-dexed\debug\classes-daa4ad8b481db3be7e9b6441fdd285413948d842.jar" />
+    </item>
+    <item
+        jar="N:\Android\Tet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="N:\Android\Tet\app\build\intermediates\pre-dexed\debug\classes-504e24c2b2bd37475d4f1fa584c1e5d675e90a23.jar" />
+    </item>
+    <item
+        jar="N:\Android\Tet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="N:\Android\Tet\app\build\intermediates\pre-dexed\debug\classes-1c6196c19da01f30d455042f0c3daff5dff6c444.jar" />
+    </item>
+    <item
+        jar="N:\Android\Tet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="N:\Android\Tet\app\build\intermediates\pre-dexed\debug\classes-5e3522ffdf99f368419d8df2c47c360d74408421.jar" />
+    </item>
+    <item
+        jar="N:\Android\Tet\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="N:\Android\Tet\app\build\intermediates\pre-dexed\debug\classes-849f7479cf6ab7577a4f1b7f2a45d19a0302a0f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\User\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="N:\Android\Tet\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-abfe963742c945a9d7d9e243dab4e48dec7dfe72.jar" />
+    </item>
+    <item
+        jar="N:\Android\Tet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="N:\Android\Tet\app\build\intermediates\pre-dexed\debug\classes-adc4394c83bc3023d3a85e592ae38bd04c1e84d5.jar" />
+    </item>
+    <item
+        jar="N:\Android\Tet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="N:\Android\Tet\app\build\intermediates\pre-dexed\debug\classes-d8d0e56cd14e898a18ab69a2d9027cb05d6935cf.jar" />
+    </item>
+    <item
+        jar="N:\Android\Tet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="N:\Android\Tet\app\build\intermediates\pre-dexed\debug\classes-6919cd45cb63d7bb743987aefd485a40af23d625.jar" />
+    </item>
+    <item
+        jar="N:\Android\Tet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="N:\Android\Tet\app\build\intermediates\pre-dexed\debug\classes-37a20252e0c680d35991ab53879eeba517857150.jar" />
+    </item>
+    <item
+        jar="N:\Android\Tet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="N:\Android\Tet\app\build\intermediates\pre-dexed\debug\classes-435178f07af312573d89e6f0f33d23257969da55.jar" />
+    </item>
+    <item
+        jar="N:\Android\Tet\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0f254ec13d6671680482d2218f01ecf14dfa93e6">
+        <dex dex="N:\Android\Tet\app\build\intermediates\pre-dexed\debug\classes-cc39522d08f78e12b797a5c2f8735cc30957d6b4.jar" />
+    </item>
+    <item
+        jar="N:\Android\Tet\app\libs\unity-classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ecebd98da2f1e39f3f79a78d84d72acf036adc4">
+        <dex dex="N:\Android\Tet\app\build\intermediates\pre-dexed\debug\unity-classes-88920c995a871d07697cdc8585ab548e1e59a194.jar" />
+    </item>
+    <item
+        jar="N:\Android\Tet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="N:\Android\Tet\app\build\intermediates\pre-dexed\debug\classes-223f86d22c3834d7c30531ffc7e336c718b2aa74.jar" />
+    </item>
+    <item
+        jar="N:\Android\Tet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="N:\Android\Tet\app\build\intermediates\pre-dexed\debug\classes-c743848c122ba9d1866157156f34c9deedb2e090.jar" />
+    </item>
+    <item
+        jar="N:\Android\Tet\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="N:\Android\Tet\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-2400c5ba9d74d60984b59549a561528f83650435.jar" />
+    </item>
+    <item
+        jar="N:\Android\Tet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="N:\Android\Tet\app\build\intermediates\pre-dexed\debug\classes-3d76aab5a00ae8378b30252b852aec00fed45464.jar" />
+    </item>
+    <item
+        jar="C:\Users\User\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="N:\Android\Tet\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-b511c42710102269e7ce30cce058f2ab7419102f.jar" />
+    </item>
+    <item
+        jar="N:\Android\Tet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="N:\Android\Tet\app\build\intermediates\pre-dexed\debug\classes-b1a9c86ee91900a5f2d43a7d10ff8bbc98c2b705.jar" />
+    </item>
+    <item
+        jar="N:\Android\Tet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="N:\Android\Tet\app\build\intermediates\pre-dexed\debug\classes-4549dd1a8d9d5fd4a747543874a32c22a3ccffec.jar" />
+    </item>
+    <item
+        jar="N:\Android\Tet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="N:\Android\Tet\app\build\intermediates\pre-dexed\debug\classes-499c5de2cb3d4eb58eb7a6c5f831acd79b355007.jar" />
+    </item>
+    <item
+        jar="N:\Android\Tet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="N:\Android\Tet\app\build\intermediates\pre-dexed\debug\classes-19330f2df2c25c790659a88e227a74a933a2d71f.jar" />
+    </item>
+    <item
+        jar="N:\Android\Tet\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="N:\Android\Tet\app\build\intermediates\pre-dexed\debug\classes-bc9836ab58d8e6850a3ca048054234c6116da8f8.jar" />
+    </item>
+
+</items>

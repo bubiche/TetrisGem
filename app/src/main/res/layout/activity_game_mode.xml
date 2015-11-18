@@ -1,0 +1,78 @@
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/snow_frame"
+        android:visibility="visible">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_centerInParent="true">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/select_mode"
+                android:layout_gravity="center_horizontal"
+                android:textSize="46sp"
+                android:layout_margin="@dimen/activity_vertical_margin"
+                android:textColor="#22313f"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/ButtonText"
+                android:background="@drawable/green_button"
+                android:text="@string/zen"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="@dimen/activity_vertical_margin"
+                android:id="@+id/zen_button"
+                android:onClick="click_zen"/>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                style="@style/ButtonText"
+                android:background="@drawable/red_button"
+                android:text="@string/time_attack"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="@dimen/activity_vertical_margin"
+                android:id="@+id/time_button"
+                android:onClick="click_time"/>
+        </LinearLayout>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="10"
+        android:visibility="invisible"
+        android:id="@+id/theme_select_layout">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="@string/select_theme"
+            android:layout_gravity="center_horizontal"
+            android:textSize="46sp"
+            android:layout_margin="@dimen/activity_vertical_margin"
+            android:textColor="#ffffff"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="4.5"
+            android:scaleType="centerInside"
+            android:src="@drawable/normal_theme"
+            android:onClick="click_normal_theme"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="4.5"
+            android:scaleType="centerInside"
+            android:src="@drawable/gems"
+            android:onClick="click_gem"
+            android:id="@+id/gem_option"/>
+    </LinearLayout>
+</merge>

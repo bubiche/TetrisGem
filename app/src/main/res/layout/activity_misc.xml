@@ -1,0 +1,77 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.cs426.tetris.MiscActivity"
+    android:weightSum="4"
+    android:background="#f1a9a0">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.7"
+        android:id="@+id/iv_anim_misc"
+        android:scaleType="centerInside"
+        android:src="@drawable/cat_anim"/>
+
+    <TextView android:text="@string/volume" android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="0.3"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:textSize="42sp"
+        android:textColor="#f62459"
+        android:textStyle="bold"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.7"
+        android:orientation="horizontal">
+        <SeekBar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_margin="@dimen/activity_vertical_margin"
+            android:id="@+id/vol_bar"/>
+    </LinearLayout>
+
+    <TextView android:text="@string/find_place" android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:textSize="42sp"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        android:textColor="#1bbc9b"
+        android:background="#90c695"
+        android:textStyle="bold"
+        android:paddingStart="@dimen/activity_horizontal_margin"
+        android:paddingEnd="@dimen/activity_horizontal_margin"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.9"
+        android:scaleType="centerInside"
+        android:src="@drawable/map"
+        android:background="#90c695"
+        android:onClick="click_map"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.4"
+        android:orientation="horizontal"
+        android:background="#90c695">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/back"
+            android:layout_marginStart="@dimen/activity_horizontal_margin"
+            android:background="@drawable/green_button"
+            android:textColor="#ffffff"
+            android:textSize="20sp"
+            android:onClick="click_misc_back" />
+    </LinearLayout>
+</LinearLayout>
